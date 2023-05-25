@@ -254,7 +254,7 @@ hashtags <- str_extract_all(d$text, "#\\w+")
 
 This function takes as the first argument the text from which we want to extract the hashtags, and  a *regular expression* as the second argument. This expression tells R to extract contents starting from and including # up to a whitespace (*w+*).  
 
-Regular expressions and functions such as *str_extract_all* are useful for text manipulation. If, later on, you want to have a look at the full range of text manipulation functions and regular expressions available, see https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf.
+Regular expressions and functions such as *str_extract_all* are useful for text manipulation. 
 
 Have a look at the format in which the hashtags are provided:
 
