@@ -1,5 +1,5 @@
 
-# R FOR HERITAGE: TRAINING WORKSHOP
+# R for Social Media Research in Cultural and Museum Studies: TRAINING WORKSHOP
 	
 ## 26 May 2023, University of Edinburgh
 
