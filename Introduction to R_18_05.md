@@ -13,7 +13,7 @@ Welcome! In this part of the training you will be introduced to R. R is a kind o
 
 ## Introduction 
 
-To open R, go to the Launcher bar at the bottom of the screen and find R Studio (the icon looks like a blue circle with an 'R' in the middle). From now on we will refer to R Studio as just R.
+To open R, find and launch R Studio (the icon looks like a blue circle with an 'R' in the middle). From now on we will refer to R Studio as just R.
 
 R executes commands through the Script and Console windows. This means that you need to tell the software what to do by writing commands directly into the Script window of your R studio screen and then by pressing *run*. The Script window is located in the top left quadrant of your R studio screen. The bottom left quadrant is the Console window, where your outputs will appear. In the top right quadrant, you will find the Environment window, where your work is saved in R. We will leave the fourth quadrant aside for now and return to it later.
 
