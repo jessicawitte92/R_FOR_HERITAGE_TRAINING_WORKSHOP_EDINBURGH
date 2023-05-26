@@ -102,11 +102,11 @@ c<-b-a
 ##### Q4. Now assign the value of the sum of *b* and *c* to the variable *d*. What is the value of *d*?
 
 
-The output of the commands other than mathematical operations can also be stored in variables. For example, let's store the information about the type of value held by *c* in a variable called *dt_c*:
+The output of the commands other than mathematical operations can also be stored in variables. For example, let's store the information about the type of value held by *a* in a variable called *dt_c*:
 
 
 ```R
-dt_c <- class(c)
+dt_c <- class(a)
 ```
 
 Now you can check that the type of value stored in *c* is numeric:
